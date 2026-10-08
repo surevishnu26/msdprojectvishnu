@@ -1,4 +1,4 @@
-let mongoose=require('mongoose');
+8  salet mongoose=require('mongoose');
 let userSchema=mongoose.Schema({
     name:String,
     emailid:{
